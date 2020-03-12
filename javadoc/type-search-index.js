@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pl.martyna.client.network","l":"Client"},{"p":"pl.martyna.server.model","l":"Draw"},{"p":"pl.martyna.server.model","l":"IllegalValueException"},{"p":"pl.martyna.client.view","l":"LottoView"},{"p":"pl.martyna.client.view","l":"MenuOption"},{"p":"pl.martyna.server.network","l":"Server"}]
